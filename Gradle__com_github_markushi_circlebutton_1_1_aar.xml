@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.markushi:circlebutton:1.1@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/644ab761e3ebd85ae7dea1132f4d8140/transformed/jetified-circlebutton-1.1/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/644ab761e3ebd85ae7dea1132f4d8140/transformed/jetified-circlebutton-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/644ab761e3ebd85ae7dea1132f4d8140/transformed/jetified-circlebutton-1.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/644ab761e3ebd85ae7dea1132f4d8140/transformed/jetified-circlebutton-1.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
